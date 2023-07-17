@@ -1,0 +1,6 @@
+ cd GitHub 
+ git status
+steps to commiton guit
+git add .            (add all)
+git commit -m "a message"            (for recongnition)
+ git log --all --graph           (to check our commit history)
